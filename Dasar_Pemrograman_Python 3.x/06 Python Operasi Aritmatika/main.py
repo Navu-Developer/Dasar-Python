@@ -20,8 +20,8 @@ print("a x b = ",hasil)
 hasil = a / b
 print("a : b = ",hasil) # hasil berupa float
 
-# Hasil bagi
-hasil1 = a // b
+# sisa bagi
+hasil1 = a % b
 print("a : b = ",hasil,"Bersisa : ",hasil1)
 
 # Pemangkatan
