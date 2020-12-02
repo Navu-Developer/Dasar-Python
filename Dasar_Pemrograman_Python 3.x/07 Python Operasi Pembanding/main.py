@@ -5,6 +5,7 @@ a = 5
 b = 10
 
 # Lebih besar > lebih kecil < 
+print("Lebih besar dan lebih kecil dari '> / <'")
 c = a > b
 print(a,">",b,"=",c)
 c = b > a
@@ -15,7 +16,19 @@ c = b > 7
 print(b,"> 7 =",c)
 
 # sama dengan ==
+print("Sama dengan '=='")
 c = a == b
 print(a,"==",b,"=",c)
 c = a == 5
 print(a,"== 5 =",c)
+c = a == 4
+print(a,"== 4 =",c)
+
+# tidak sama dengan !=
+print("tidak sama dengan '!='")
+c = a != b
+print(a,"!=",b,"=",c)
+c = a != 5
+print(a,"!= 5 =",c)
+c = a != 4
+print(a,"!= 4 =",c)
