@@ -1,7 +1,7 @@
 class persegi(object):
 
-    def __init__(self, s=int(input())):
-        self.sisi = s
+    def __init__(self, sisi=int(input("sisi = "))):
+        self.sisi = sisi
 
     def keliling(self):
         return(self.sisi*4)
