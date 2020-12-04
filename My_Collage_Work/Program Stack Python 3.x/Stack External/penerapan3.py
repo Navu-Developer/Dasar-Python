@@ -20,8 +20,6 @@ def main():
         os.system("clear")
         print(colored("="*60,"green"))
         print(colored("\t\tPROGRAM ALGORITMA STACK\n","blue"))
-        print(colored("Pemilik\t: Stevano Titondea Prayoga Putra"))
-        print(colored("NIM\t: A11.2019.11831"))
         print(colored("Code\t: Python3"))
         print(colored("="*60,"green"))
         print("1. Isi ulang tempat peluru (magazine)")
