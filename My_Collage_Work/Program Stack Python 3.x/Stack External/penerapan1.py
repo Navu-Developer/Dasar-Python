@@ -17,8 +17,6 @@ def main():
         print(colored("="*40,"green"))
         print(colored("\tPROGRAM ALGORITMA STACK\n","blue"))
         print(colored("Implementasi pemasangan & pembongkaran motor\n","cyan"))
-        print(colored("Mekanik\t: Stevano Titondea Prayoga Putra"))
-        print(colored("NIM\t: A11.2019.11831"))
         print(colored("Code\t: Python3"))
         print(colored("="*40,"green"))
         Proses = ""
