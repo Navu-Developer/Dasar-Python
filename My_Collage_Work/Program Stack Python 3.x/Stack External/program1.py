@@ -9,8 +9,6 @@ def main():
         os.system("clear")
         print(colored("="*40,"green"))
         print(colored("PROGRAM STACK CLASS DASAR\n","blue"))
-        print(colored("Nama\t: Stevano Titondea Prayoga Putra"))
-        print(colored("NIM\t: A11.2019.11831"))
         print(colored("Code\t: Python3"))
         print(colored("="*40,"green"))
         print("1. Tambah Data")
