@@ -34,3 +34,9 @@ if (a*b)%10 == 0:
 else:
     print(b,"bukan kelipatan 2 maka hasil a x b tidak kelipatan 10")
     print("nilai a x b : ",(a*b))
+    
+# kondisi pembanding
+if a >= b:
+    print("b lebih kecil dari a")
+else:
+    print("a lebih kecil dari b")
