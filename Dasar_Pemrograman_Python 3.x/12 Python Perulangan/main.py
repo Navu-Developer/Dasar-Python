@@ -1,9 +1,11 @@
 # Perulangan pada Python
 # for, while
 
+# patokan variabel
+a = 5
+
 print("FOR LOOP")
 # perulangan for
-a = 5
 for i in range(a):
     print("ulang ke-%s"%(i+1))
 
