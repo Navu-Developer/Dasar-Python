@@ -22,11 +22,11 @@ if _bulan() != 'februari':
 
 
 print("tanggal %d/%s/%d"%(tanggal, _bulan(), tahun))
-if tanggal > hari+1:
-    print("tanggal tidak valid")
 elif tanggal < hari+1:
     print("tanggal valid")
     if kabisat == 0:
         print("ini tahun kabisat")
     elif kabisat != 0:
         print("ini bukan tahun kabisat")
+else:
+    print("tanggal tidak valid")
