@@ -21,8 +21,8 @@ if _bulan() != 'februari':
         hari = 30
 
 
-print("tanggal %d/%s/%d"%(tanggal, _bulan(), tahun))
 elif tanggal < hari+1:
+    print("tanggal %d/%s/%d"%(tanggal, _bulan(), tahun))
     print("tanggal valid")
     if kabisat == 0:
         print("ini tahun kabisat")
